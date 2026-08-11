@@ -24,7 +24,7 @@ The purpose of this project is to improve awareness of phishing threats and help
 
 ## Project File
 
-- `Phishing_Awareness_Training.pptx` — Phishing awareness training presentation
+- `Phishing Awareness Training.pptx` — Phishing awareness training presentation
 
 ## Disclaimer
 
